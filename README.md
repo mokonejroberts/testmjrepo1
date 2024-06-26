@@ -1,2 +1,2 @@
 # testmjrepo1
-My beginner repo 
+My beginner repo in my data science journey.
